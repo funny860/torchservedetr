@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: torchservedetr
+Version: 0.1
+Summary: Torch Custom Package for DETR
+Author: Phaneendra Gandi
+Author-email: phaneendra.gandi.1999@gmail.com
+Requires-Dist: torch
