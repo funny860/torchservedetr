@@ -1,0 +1,6 @@
+setup.py
+app/torchservedetr.egg-info/PKG-INFO
+app/torchservedetr.egg-info/SOURCES.txt
+app/torchservedetr.egg-info/dependency_links.txt
+app/torchservedetr.egg-info/requires.txt
+app/torchservedetr.egg-info/top_level.txt
