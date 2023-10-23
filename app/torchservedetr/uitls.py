@@ -1,5 +1,8 @@
 from enum import Enum
 from typing import Any, Callable, Dict, Iterable, List, Optional, Set, Tuple, Union
+import torch
+import numpy as np
+import torch.nn as nn
 import requests
 
 def _center_to_corners_format_torch(bboxes_center: "torch.Tensor") -> "torch.Tensor":
