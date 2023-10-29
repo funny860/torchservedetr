@@ -2,7 +2,11 @@ Metadata-Version: 2.1
 Name: torchservedetr
 Version: 0.1
 Summary: Torch Custom Package for DETR
+Home-page: UNKNOWN
 Author: Phaneendra Gandi
 Author-email: phaneendra.gandi.1999@gmail.com
-Requires-Dist: torch
-Requires-Dist: numpy
+License: UNKNOWN
+Platform: UNKNOWN
+
+UNKNOWN
+

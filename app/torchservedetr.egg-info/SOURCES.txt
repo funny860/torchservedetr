@@ -1,4 +1,7 @@
 setup.py
+app/torchservedetr/__init__.py
+app/torchservedetr/detr.py
+app/torchservedetr/uitls.py
 app/torchservedetr.egg-info/PKG-INFO
 app/torchservedetr.egg-info/SOURCES.txt
 app/torchservedetr.egg-info/dependency_links.txt
